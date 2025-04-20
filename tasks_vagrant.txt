@@ -117,3 +117,6 @@ vagrant@ubuntu-jammy:~$ curl http://192.168.100.100:8080/dogs | jq .
     "dogImage": "/images/dog/p12.jpeg"
   }
  ]
+Скріни:
+https://drive.google.com/file/d/1Ye2slxWMtQIVfbExyfg_nFGyegNn5lsF/view?usp=sharing
+https://drive.google.com/file/d/1mcTEt-Yqx6pp2w3YuV4rzlIIxB5ZeEiu/view?usp=sharing
